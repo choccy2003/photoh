@@ -1,8 +1,9 @@
 .topicgrid{
     display: flex;
-    gap: 100px;
+    gap: 400px;
     margin-top: 60px;
-    margin-left: 472px;
+    margin-left: 322px;
+    user-select: none;
 }
 li:hover{
     text-decoration: underline;
