@@ -1,0 +1,27 @@
+.topicgrid{
+    display: flex;
+    gap: 100px;
+    margin-top: 60px;
+    margin-left: 472px;
+}
+li:hover{
+    text-decoration: underline;
+    user-select: none;
+
+}
+li{
+    margin-top: 20px;
+    margin-left: 35px;
+}
+.topiclist{
+    height: 350px;
+    width: 300px;
+    background-color: rgb(225, 225, 225);
+    font-size: 22px;
+    border-radius: 15px;
+    font-weight: 600;
+    border: 2px solid rgb(200, 199, 199);
+    font-family: Arial;
+    
+    
+}

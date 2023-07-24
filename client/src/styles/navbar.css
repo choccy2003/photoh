@@ -1,0 +1,34 @@
+.navbar{
+    
+    height: 65px;
+    width: 100%;
+    position: sticky;
+    top: 0px;
+    background-color: #FFFFFF;
+}
+
+.nav-components{
+    display: flex;
+    padding-top: 14px;
+    margin-top: 5px;
+    margin-left: 220px;
+    margin-right: 220px;
+    align-items: center;
+    gap:50px;
+    
+}
+.search-box{
+    height: 29px;
+    width: 210px;
+    border-radius: 6px;
+    background-color: white;
+    border: 1px solid rgb(171, 171, 171);
+    margin-left: auto;
+}
+.search-text{
+outline: none;
+border: 0px solid;
+box-shadow: none;
+
+margin-left: 8px;
+}

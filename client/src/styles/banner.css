@@ -1,0 +1,20 @@
+.banner{
+    height: 430px;
+    width: 100%;
+    background-image: url('../images/banner2.jpg');
+}
+.bannercard{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top:120px;
+    left: 330px;
+  
+}
+.banner-searchbox{
+    height: 36px;
+    width: 260px;
+    background-color: #FFF;
+    border-radius: 7px;
+    
+}
